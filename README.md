@@ -31,5 +31,4 @@ To run this application, you need to have XAMPP installed on your machine. Follo
 - Delete products from the catalog.
 - Secure and reliable PHP scripts.
 - Easy to navigate user interface.
-"# ProductManagementSystem" 
-"# ProductManagementSystem" 
+
